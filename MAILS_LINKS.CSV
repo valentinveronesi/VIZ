@@ -1,4 +1,4 @@
-﻿From,TO_CORREGIDO,CANT_EMAIL
+﻿from,to,cant
 Varja.Lagos@gastech.com.kronos,Varja.Lagos@gastech.com.kronos,1
 Brand.Tempestad@gastech.com.kronos,Birgitta.Frente@gastech.com.kronos,1
 Isak.Baza@gastech.com.kronos,Isak.Baza@gastech.com.kronos,16
@@ -1241,3 +1241,4 @@ Varro.Awelon@gastech.com.kronos, Kare.Orilla@gastech.com.kronos,1
 Willem.Vasco-Pais@gastech.com.kronos, Kare.Orilla@gastech.com.kronos,1
 Dylan.Scozzese@gastech.com.kronos, Kare.Orilla@gastech.com.kronos,1
 Dante.Coginian@gastech.com.kronos, Irene.Nant@gastech.com.kronos,2
+-,,24
